@@ -1,0 +1,25 @@
+[
+  {
+    "team": "mobile",
+    "members": [
+      "a@mail.com",
+      "b@yahoo.com"
+    ],
+    "subteams": [
+      {
+        "team": "iOS",
+        "members": [
+          "a@mail.com",
+          "b@gmail.com"
+        ]
+      }
+    ]
+  },
+  {
+    "team": "backend",
+    "members": [
+      "c@gmail.com",
+      "d@mail.com"
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "team": "mobile",
+    "members": [
+      "a@mail.com",
+      "b@yahoo.com"
+    ],
+    "subteams": [
+      {
+        "team": "iOS",
+        "members": [
+          "a@gmail.com",
+          "b@gmail.com"
+        ]
+      
+    ]
+  },
+  {
+    "team": "backend",
+    "members": [
+      "c@gmail.com",
+      "d@mail.com"
+    ],
+    "subteams": [
+      {
+        "team": "Android",
+        "members": [
+          "a@gmail.com",
+          "f@yahoo.com"
+        ]
+      }
+    ]
+  }
+]
