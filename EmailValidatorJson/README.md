@@ -53,6 +53,7 @@ To use the Email Parser Library in your own project:
      ```bash
      dotnet add reference ../EmailParserLibrary/EmailParserLibrary.csproj
      ```
+3. Add NewtonSoft.Json library from NuGet package management.
 4. Write code to utilize the library. You can use the example from:
    ```bash
    https://github.com/Agronom2812/Libs/tree/EmailValidatorJsonLibrary/EmailValidatorJson/example
